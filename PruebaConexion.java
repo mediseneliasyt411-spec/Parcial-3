@@ -1,9 +1,3 @@
-/*
- * PROGRAMA: PruebaConexion
- * LENGUAJE: Java
- * OBJETIVO: Simular la conexion de un usuario con un servidor
- * mediante un menu y un ciclo do-while.
- */
 
 import java.util.Scanner;
 
