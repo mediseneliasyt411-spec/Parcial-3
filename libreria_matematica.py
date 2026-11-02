@@ -1,8 +1,3 @@
-"""
-PROGRAMA: Libreria matematica
-LENGUAJE: Python
-OBJETIVO: Mostrar funciones del modulo estandar math.
-"""
 
 # Importa el modulo math para acceder a sus funciones.
 import math
