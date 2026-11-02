@@ -1,9 +1,3 @@
-/*
- * PROGRAMA: Abstraccion
- * LENGUAJE: Java
- * OBJETIVO: Demostrar abstraccion, herencia y sobrescritura
- * de metodos mediante las clases Animal, Perro y Gato.
- */
 
 // Clase abstracta: sirve como modelo para sus clases hijas.
 abstract class Animal {
