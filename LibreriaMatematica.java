@@ -1,9 +1,3 @@
-/*
- * PROGRAMA: LibreriaMatematica
- * LENGUAJE: Java
- * OBJETIVO: Mostrar operaciones de la clase Math.
- */
-
 public class LibreriaMatematica {
 
     public static void main(String[] args) {
