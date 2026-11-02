@@ -1,9 +1,3 @@
-"""
-PROGRAMA: Prueba de conexion
-LENGUAJE: Python
-OBJETIVO: Simular la conexion con un servidor mediante
-un menu, una funcion booleana y un ciclo while.
-"""
 
 # Devuelve True cuando el estado indica que no hay conexion.
 def sin_conexion(estado):
