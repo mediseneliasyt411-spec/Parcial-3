@@ -1,9 +1,3 @@
-"""
-PROGRAMA: Calculadora matematica
-LENGUAJE: Python
-OBJETIVO: Realizar operaciones matematicas basicas
-utilizando la estructura match-case.
-"""
 
 print("--- CALCULADORA ---")
 
