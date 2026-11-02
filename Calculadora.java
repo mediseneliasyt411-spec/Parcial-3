@@ -1,9 +1,3 @@
-/*
- * PROGRAMA: Calculadora
- * LENGUAJE: Java
- * OBJETIVO: Realizar operaciones matematicas basicas
- * utilizando la estructura switch.
- */
 
 import java.util.Scanner;
 
