@@ -39,7 +39,7 @@ Ejemplo de clase abstracta `Animal` y clases derivadas `Perro` y `Gato`.
 
 ### Java
 
-Abre una terminal en la carpeta `java` y ejecuta:
+Abre una terminal 
 
 ```bash
 javac PruebaConexion.java
@@ -57,7 +57,7 @@ java Abstraccion
 
 ### Python
 
-Abre una terminal en la carpeta `python` y ejecuta:
+Abre una terminal
 
 ```bash
 python prueba_conexion.py
