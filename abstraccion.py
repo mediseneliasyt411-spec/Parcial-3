@@ -1,9 +1,3 @@
-"""
-PROGRAMA: Abstraccion
-LENGUAJE: Python
-OBJETIVO: Demostrar abstraccion, herencia y sobrescritura
-de metodos mediante las clases Animal, Perro y Gato.
-"""
 
 # ABC y abstractmethod permiten definir clases y metodos abstractos.
 from abc import ABC, abstractmethod
